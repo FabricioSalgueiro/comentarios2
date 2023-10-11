@@ -29,7 +29,7 @@
 <!-- Begin page content -->
 
 <div class="container">
-      <h3 class="mt-5"><center>Sistema de Comentarios PHP y MSQL</center></h3>
+      
       <hr>
       <div class="row">
     <div class="col-12 col-md-12"> 
@@ -170,7 +170,7 @@ function listReplies(commentId, data, list) {
 <!-- Fin container -->
 <footer class="footer">
       <div class="container"> <span class="text-muted">
-        <p>Visíta <a href="" target="_blank">Fuente Web</a></p>
+       
         </span> </div>
     </footer>
 <!-- Bootstrap core JavaScript--> 
